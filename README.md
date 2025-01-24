@@ -1,3 +1,3 @@
-    Ashfaq Portfolio Website
+ Deepesh Portfolio Website
  
-  https://mohammedashfaql.github.io/
+  https://deepeshnama.github.io/
