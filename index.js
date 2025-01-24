@@ -203,7 +203,7 @@ menuIcon.onclick = () => {
 
     function NewTab() {
       window.open(
-        "https://drive.google.com/file/d/17hxSRAgU2bjleIbUUjqaj9Hnr2Geo2AA/view?usp=sharing",
+        "https://drive.google.com/file/d/17FnIcbBioqcdo7XNsBzcOtzf7MUFxJ22/view?usp=sharing",
         "_blank"
       );
     }
